@@ -20,6 +20,29 @@
 
 ---
 
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
+You can use the diff language tag to generate some colored text:
+
+<pre>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+</pre>
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+However, it adds it as a new line starting with either `- + ! #`
+
 ## C++의 첫걸음
 
 - <a href="#sec1_01">C와 C++언어의 역사와 철학</a>
@@ -29,9 +52,9 @@
 - 프로그래밍 언어의 표준
 - 프로그램 작성 요령
 
----
 
 ### [C와 C++언어의 역사와 철학](https://github.com/sokhyg9016/CPP_NOTE_01/blob/master/README.md#sec1_01)
+
 What things you need to install the software and how to install them
 
 ---
