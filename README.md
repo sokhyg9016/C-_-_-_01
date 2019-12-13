@@ -128,8 +128,8 @@ Cpp와 일반화 프로그래밍
 - C++ 전처리기와 `iostream` 파일 <a href="#c-전처리기와-iostream-파일"><sup>[2.1.1]</sup></a>
 - 이름 공간 (namespace) <a href="#이름-공간namespace"><sup>[2.2.1]</sup></a>
   - using 지시자 <a href="#using-지시자"><sup>[2.2.2]</sup></a>
-- C++ 소스 코드 스타일
-  - ```cin```과 ```cout:```클래스 맛보기
+- C++ 소스 코드 스타일 <a href="#c-소스-코드-스타일"><sup>[2.3.1]</sup></a>
+  - ```cin```과 ```cout:```클래스 맛보기 <a href="#cin과-cout클래스-맛보기"><sup>[2.3.2]</sup></a>
 - 함수
   - 복수 함수 프로그램에 ```using``` 지시자 넣기
 
