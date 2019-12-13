@@ -29,7 +29,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
   - C++의 프로그래밍 철학 <a href="#cpp의-프로그래밍-철학"><sup>[1:2]</sup></a>
   - 절차적 프로그래밍과 객체 지향 프로그래밍 <a href="#cpp의-프로그래밍-철학"><sup>[1:3]</sup></a>
   - 객체 지향 프로그래밍의 장점 <a href="#이-외의-OOP의-장점"><sup>[1:4]</sup></a>
-- C++가 C언어에 추가한 일반화 지향 개념 <a href="#c와-c언어의-역사와-철학"><sup>[2]</sup></a>
+- C++가 C언어에 추가한 일반화 지향 개념 <a href="#Cpp와-일반화-프로그래밍"><sup>[2]</sup></a>
 - **`프로그래밍 언어의 표준`**
 - 프로그램 작성 요령
 - **`C++의 특징`**
@@ -105,12 +105,9 @@ C와 C++언어의 역사와 철학
 상속을 이용하여 하나의 클래스로부터 새로운 클래스를 유도하는 등 절차적 프로그래밍과는 완전히 다른 접근 방식을 취할 수 있음.
 ```
 
-
-
 ---
 
-
-절차적 프로그래밍과 객체 지향 프로그래밍
+Cpp와 일반화 프로그래밍
 ---
 
 What things you need to install the software and how to install them
