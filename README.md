@@ -129,12 +129,6 @@ Cpp와 일반화 프로그래밍
 - 이름 공간 (namespace) <a href="#이름-공간namespace"><sup>[2.2.1]</sup></a>
   - using 지시자 <a href="#using-지시자"><sup>[2.2.2]</sup></a>
 - C++ 소스 코드 스타일
-  - C++ 구문
-  - 선언 구문과 변수
-  - 대입 구문
-  - 기타 그문
-  - ```cin```사용법
-  - ```cout```에 의한 출력의 결합
   - ```cin```과 ```cout:```클래스 맛보기
 - 함수
   - 복수 함수 프로그램에 ```using``` 지시자 넣기
@@ -183,14 +177,79 @@ using namespace std;
 - `using` 지시자는 std 이름 공간에 들어있는 모든 이름을 사용할 수 있게 해 준다.
 
 
-C++ 구문
+C++ 소스 코드 스타일
 ---
 
 - C++ 프로그램은 함수들의 집합이다.
 - 이름 공간은 프로그램을 작성할 때 여러 소프트웨어 개발업체들이 제공하는 코드를 사용할 수 있도록 도와준다.
 
+#### `cin`과 `cout:`클래스 맛보기
+- `클래스`는 사용자가 정의하는 자료형이다.
+- 클래스를 정의하려면, 클래스로 표현 할 수 있는 `정보의 종류`가 무엇이고, 그것으로 수행할 수 있는 `동작`은 무엇인지 서술해야 한다.
+- 클래스와 객체의 관계는 데이터형과 변수의 관계와 같다.
 
+|  | 클래스 | 객체 |
+| --- | --- | --- |
+| 정의 | 데이터 형식과 그것이 사용되는 방법을 서술하는 것 | 클래스에 서술된 형식에 따라 실제로 생성되는 구체물 |
+| 예시| 유명 배우 (추상화적 개념) | 제임스 딘 (클래스가 구체화된 객체) |
 
+- 이러한 비유를 더 확장시킨다면, `배우`라는 클래스에는 그 배우의 활동까지도 포함시킬 수 있다.
+- 예를 들어, 대사 외우기, 반항아 이미지 표현하기 등등이 `배우`클래스의 동작이 될 수 있다.
 
+| NOTE: **클래스**는 데이터 형식의 모든 속성을 서술한 것이고, **객체**는 그 서술에 따라 실제로 생성된 구체물이다. |
+| --- |
 
+- 이제 `cout`을 살펴보자면,
 
+> **iostream**
+
+```Cpp
+...
+__PURE_APPDOMAIN_GLOBAL extern _CRTDATA2_IMPORT istream cin, *_Ptr_cin;
+__PURE_APPDOMAIN_GLOBAL extern _CRTDATA2_IMPORT ostream cout, *_Ptr_cout;
+...
+```
+- `cout`은 `ostream`클래스의 속성을 가지고 생성된 객체이다.
+- `ostream`클래스는 `iostream`파일에 정의되어 있다.
+- `ostream`클래스 정의에는 ostream 객체가 표현할 수 있는 데이터 형식이나, 그 데이터 형식을 가지고 수행할 수 있는 동작, 예를 들어 문자열을 출력 스트림에 삽입하는 동작 등을 정의하고 있다.
+- 마찬가지로 `cin`은 `istream`클래스의 속성을 가지고 생성된 객체이며, 이것 역시 `iostream` 파일에 정의되어 있다.
+
+| NOTE: 주의해야 할 점은 `cin`은 C언어의 `scanf("%s", str);`와 같이 문자열을 공백문자로 구분하기 때문에 문자열 추출 시 항상 구문(phrase)나 전체 문장(sentence)가 아닌 하나의 단어(word)를 추출한다. |
+| --- |
+
+- 따라서 `cin`으로부터 전체 문장을 받기 위해서는 `getline`함수를 사용한다.
+
+```Cpp
+//C++ 11
+istream& getline (istream&  is, string& str, char delim);
+istream& getline (istream&& is, string& str, char delim);	
+istream& getline (istream&  is, string& str);
+istream& getline (istream&& is, string& str);
+
+/*
+is: istream object from which characters are extracted.
+str: string object where the extracted line is stored.
+     The contents in the string before the call (if any) are discarded and replaced by the extracted line.
+     
+Return value: The same as parameter is.
+*/
+
+//Example 
+
+// extract to string
+#include <iostream>
+#include <string>
+
+int main ()
+{
+  std::string name;
+
+  std::cout << "Please, enter your full name: ";
+  std::getline (std::cin, name);
+  std::cout << "Hello, " << name << "!\n";
+
+  return 0;
+}
+```
+- Get line from stream into string.
+- Extract characters from `is` and stores them into `str` until the delimitation character `delim` is found. (or the new line, `\n`).
