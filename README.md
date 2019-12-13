@@ -20,29 +20,6 @@
 
 ---
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
-You can use the diff language tag to generate some colored text:
-
-<pre>
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-</pre>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
-However, it adds it as a new line starting with either `- + ! #`
-
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## C++의 첫걸음
@@ -69,8 +46,9 @@ C와 C++언어의 역사와 철학
 
 ***C의 프로그래밍 철학***
 - `C`는 절차적(procedural)언어이다.
->   절차적이라는 말은 프로그래밍에서 데이터보다 알고리즘을 더 치중한다는 뜻이다.
-
+```   
+  절차적이라는 말은 프로그래밍에서 데이터보다 알고리즘을 더 치중한다는 뜻이다. 
+```
 - 절차적 프로그래밍은 컴퓨터가 수행해야 할 동작들을 명확히 구분하고, 그 구분된 동작들을 프로그래밍 언어로 구현하는 것이다.
 - 원하는 결과를 얻기 위해 컴퓨터가 따라야 할 절차들을 규정해 놓은 것이 `절차적 프로그램`이다.
 
