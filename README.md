@@ -1,4 +1,7 @@
 # C++ Primer Plus (6th Edition)
+This site was built using [GitHub Pages](https://pages.github.com/).
+
+
 
 > Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
 
@@ -17,7 +20,6 @@
 
 ---
 
-This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## C++의 첫걸음
 
@@ -27,7 +29,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
   - 절차적 프로그래밍과 객체 지향 프로그래밍 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.3]</sup></a>
   - 객체 지향 프로그래밍의 장점 <a href="#이-외의-OOP의-장점"><sup>[1.1.4]</sup></a>
 - C++가 C언어에 추가한 일반화 지향 개념 <a href="#Cpp와-일반화-프로그래밍"><sup>[1.2]</sup></a>
-- [ ] **`C++의 특징`**
 
 ---
 
