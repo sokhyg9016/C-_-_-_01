@@ -18,11 +18,26 @@
   - 함수
 - 데이터 처리
 
-## Getting Started
+## C++의 첫걸음
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- <a href="#sec1_01">C와 C++언어의 역사와 철학</a>
+- <a href="#sec1_02">절차적 프로그래밍과 객체 지향 프로그래밍</a>
+- C++가 C언어에 추가한 객체 지향 개념
+- C++가 C언어에 추가한 일반화 지향 개념
+- 프로그래밍 언어의 표준
+- 프로그램 작성 요령
 
-### Prerequisites
+
+---
+<h3 id = "sec1_01">C와 C++언어의 역사와 철학</h3>
+
+What things you need to install the software and how to install them
+
+```
+Give examples
+```
+---
+<h3 id = "sec1_02">절차적 프로그래밍과 객체 지향 프로그래밍</h3>
 
 What things you need to install the software and how to install them
 
