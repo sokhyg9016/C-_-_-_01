@@ -1,8 +1,10 @@
 # Note - C++ Primer Plus (6th Edition)
 
-C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value, 클래스 
+> C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value, 클래스 
 
----
+> 2019.12.12
+
+> Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
 
 ## **CONTENTS**
 - C++의 첫걸음
