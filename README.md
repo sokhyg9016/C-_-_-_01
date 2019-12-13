@@ -6,7 +6,9 @@ C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value,
 | ------------- |:-------------:|:-------------:| 
 | 2019.12.12     | `C++`  | https://isocpp.org/ |
 
-### **CONTENTS**
+---
+
+## **CONTENTS**
 - C++의 첫걸음
   - issues (waffle.io maybe)
 - devDependencies
@@ -17,7 +19,6 @@ C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value,
   - gitter chat
 - license
   - etc.
----
 
 ## Getting Started
 
