@@ -1,11 +1,8 @@
 # C++ Primer Plus (6th Edition)
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-
-
-> Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
-
-> 2019.12.12
+1. **Reference**: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
+1. **Date**: 2019.12.12
 
 
 ## **CONTENTS**
