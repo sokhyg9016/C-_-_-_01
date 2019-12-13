@@ -31,7 +31,7 @@
 
 ---
 
-<h3 id = "sec1_01">C와 C++언어의 역사와 철학</h3>
+### [C와 C++언어의 역사와 철학](sec1_01)
 What things you need to install the software and how to install them
 
 ---
