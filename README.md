@@ -1,4 +1,4 @@
-# Cpp Note
+# Note - C++ Primer Plus (6th Edition)
 
 C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value, 클래스 
 
