@@ -43,15 +43,16 @@ You can use the diff language tag to generate some colored text:
 ```
 However, it adds it as a new line starting with either `- + ! #`
 
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 ## C++의 첫걸음
 
-- <a href="#sec1_01">C와 C++언어의 역사와 철학</a>
-- <a href="#sec1_02">절차적 프로그래밍과 객체 지향 프로그래밍</a>
-- C++가 C언어에 추가한 객체 지향 개념
-- C++가 C언어에 추가한 일반화 지향 개념
-- 프로그래밍 언어의 표준
-- 프로그램 작성 요령
-
+- [x] <a href="#sec1_01">C와 C++언어의 역사와 철학</a>
+- [x] <a href="#sec1_02">절차적 프로그래밍과 객체 지향 프로그래밍</a>
+- [x] C++가 C언어에 추가한 객체 지향 개념
+- [x] C++가 C언어에 추가한 일반화 지향 개념
+- [x] 프로그래밍 언어의 표준
+- [x] 프로그램 작성 요령
 
 ### [C와 C++언어의 역사와 철학](https://github.com/sokhyg9016/CPP_NOTE_01/blob/master/README.md#sec1_01)
 
