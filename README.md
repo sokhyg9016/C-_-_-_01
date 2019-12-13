@@ -6,7 +6,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 ## **CONTENTS**
-- C++의 첫걸음 <a href="#c의-첫걸음"><sup>[1.1]</sup></a>
+- C++의 첫걸음 <a href="#c의-첫걸음"><sup>[1]</sup></a>
   - C++의 특징들에 대하여 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.2]</sup></a><a href="#이-외의-OOP의-장점"><sup>[1.1.4]</sup></a>
   - OOP와 일반화 프로그래밍 <a href="#Cpp와-일반화-프로그래밍"><sup>[1.2]</sup></a>
 - C++ 시작하기 <a href="#c-시작하기"><sup>[2]</sup></a>
@@ -126,7 +126,7 @@ Cpp와 일반화 프로그래밍
 
 ## C++ 시작하기
 
-- C++ 전처리기와 `iostream` 파일
+- C++ 전처리기와 `iostream` 파일 <a href="#c-전처리기와-iostream-파일"><sup>[2.1.1]</sup></a>
   - 헤더 파일 이름
 - 이름 공간 (namespace)
 - C++ 소스 코드 스타일
