@@ -1,7 +1,5 @@
 # C++ Primer Plus (6th Edition)
 
-> C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value, 클래스 
-
 > Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
 
 > 2019.12.12
@@ -16,7 +14,6 @@
   - 헤더 파일 이름
   - 이름 공간
   - 함수
-- 데이터 처리
 
 ---
 
@@ -126,7 +123,7 @@ Cpp와 일반화 프로그래밍
 
 - C++ 전처리기와 `iostream` 파일
   - 헤더 파일 이름
-- 이름 공간
+- 이름 공간 (namespace)
 - C++ 소스 코드 스타일
   - C++ 구문
   - 선언 구문과 변수
