@@ -126,7 +126,7 @@ Cpp와 일반화 프로그래밍
 ## C++ 시작하기
 
 - C++ 전처리기와 `iostream` 파일 <a href="#c-전처리기와-iostream-파일"><sup>[2.1.1]</sup></a>
-- 이름 공간 (namespace) <a href="#이름-공간(namespace)"><sup>[2.2.1]</sup></a>
+- 이름 공간 (namespace) <a href="#이름-공간namespace"><sup>[2.2.1]</sup></a>
   - using 지시자 <a href="#using-지시자"><sup>[2.2.2]</sup></a>
 - C++ 소스 코드 스타일
   - C++ 구문
