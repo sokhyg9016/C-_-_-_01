@@ -9,15 +9,14 @@
 
 ## **CONTENTS**
 - C++의 첫걸음
-  - issues (waffle.io maybe)
-- devDependencies
-  - npm package
-- coverage
-  - slack
-- downloads
-  - gitter chat
-- license
-  - etc.
+  - C++의 특징들에 대하여
+  - C++ 표준
+- C++ 시작하기
+  - C++ 전처리기와 `iostream` 파일
+  - 헤더 파일 이름
+  - 이름 공간
+  - 함수
+- 데이터 처리
 
 ## Getting Started
 
