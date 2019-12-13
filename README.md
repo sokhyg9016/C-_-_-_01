@@ -1,7 +1,8 @@
 # Note - C++ Primer Plus (6th Edition)
-> Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
 
 > C++의 특징, 인스턴스, 자료형(~C++17), 참조자와 포인터, R-value, 클래스 
+
+> Reference: <a href="https://isocpp.org/" target="_blank">`https://isocpp.org/`</a>
 
 > 2019.12.12
 
