@@ -54,7 +54,7 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [x] 프로그래밍 언어의 표준
 - [x] 프로그램 작성 요령
 
-[1. ](https://github.com/sokhyg9016/CPP_NOTE_01/blob/master/README.md#sec1_01)C와 C++언어의 역사와 철학
+C와 C++언어의 역사와 철학
 ---
 
 What things you need to install the software and how to install them
