@@ -31,7 +31,7 @@
 
 ---
 
-### [C와 C++언어의 역사와 철학](sec1_01)
+### [C와 C++언어의 역사와 철학](https://github.com/sokhyg9016/CPP_NOTE_01/blob/master/README.md#sec1_01)
 What things you need to install the software and how to install them
 
 ---
