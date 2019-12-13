@@ -18,6 +18,8 @@
   - 함수
 - 데이터 처리
 
+---
+
 ## C++의 첫걸음
 
 - <a href="#sec1_01">C와 C++언어의 역사와 철학</a>
@@ -27,8 +29,12 @@
 - 프로그래밍 언어의 표준
 - 프로그램 작성 요령
 
+---
+
 <h3 id = "sec1_01">C와 C++언어의 역사와 철학</h3>
 What things you need to install the software and how to install them
+
+---
 
 <h3 id = "sec1_02">절차적 프로그래밍과 객체 지향 프로그래밍</h3>
 What things you need to install the software and how to install them
