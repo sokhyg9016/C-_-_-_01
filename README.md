@@ -13,13 +13,12 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 ## C++의 첫걸음
-
-- C와 C++언어의 역사와 철학 <a href="#c와-c언어의-역사와-철학"><sup>[1.1.1]</sup></a>
-  - C의 프로그래밍 철학 <a href="#c의-프로그래밍-철학"><sup>[1.1.2]</sup></a>
-  - C++의 프로그래밍 철학 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.3]</sup></a>
-  - 절차적 프로그래밍과 객체 지향 프로그래밍 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.3]</sup></a>
-  - 객체 지향 프로그래밍의 장점 <a href="#이-외의-OOP의-장점"><sup>[1.1.4]</sup></a>
-- C++가 C언어에 추가한 일반화 지향 개념 <a href="#Cpp와-일반화-프로그래밍"><sup>[1.2]</sup></a>
+1. **C와 C++언어의 역사와 철학** <a href="#c와-c언어의-역사와-철학"><sup>[1.1.1]</sup></a>
+   - C의 프로그래밍 철학 <a href="#c의-프로그래밍-철학"><sup>[1.1.2]</sup></a>
+   - C++의 프로그래밍 철학 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.3]</sup></a>
+   - 절차적 프로그래밍과 객체 지향 프로그래밍 <a href="#cpp의-프로그래밍-철학"><sup>[1.1.3]</sup></a>
+   - 객체 지향 프로그래밍의 장점 <a href="#이-외의-OOP의-장점"><sup>[1.1.4]</sup></a>
+2. **C++가 C언어에 추가한 일반화 지향 개념** <a href="#Cpp와-일반화-프로그래밍"><sup>[1.2]</sup></a>
 
 ---
 
@@ -120,13 +119,13 @@ Cpp와 일반화 프로그래밍
 
 ## C++ 시작하기
 
-- C++ 전처리기와 `iostream` 파일 <a href="#c-전처리기와-iostream-파일"><sup>[2.1.1]</sup></a>
-- 이름 공간 (namespace) <a href="#이름-공간namespace"><sup>[2.2.1]</sup></a>
-  - using 지시자 <a href="#using-지시자"><sup>[2.2.2]</sup></a>
-- C++ 소스 코드 스타일 <a href="#c-소스-코드-스타일"><sup>[2.3.1]</sup></a>
-  - ```cin```과 ```cout:```클래스 맛보기 <a href="#cin과-cout클래스-맛보기"><sup>[2.3.2]</sup></a>
-- 함수
-  - 복수 함수 프로그램에 ```using``` 지시자 넣기
+1. C++ 전처리기와 `iostream` 파일 <a href="#c-전처리기와-iostream-파일"><sup>[2.1.1]</sup></a>
+1. 이름 공간 (namespace) <a href="#이름-공간namespace"><sup>[2.2.1]</sup></a>
+   - using 지시자 <a href="#using-지시자"><sup>[2.2.2]</sup></a>
+1. C++ 소스 코드 스타일 <a href="#c-소스-코드-스타일"><sup>[2.3.1]</sup></a>
+   - ```cin```과 ```cout:```클래스 맛보기 <a href="#cin과-cout클래스-맛보기"><sup>[2.3.2]</sup></a>
+1. 함수
+   - 복수 함수 프로그램에 ```using``` 지시자 넣기
 
 
 ---
